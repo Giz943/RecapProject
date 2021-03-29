@@ -19,7 +19,7 @@ namespace WebAPI
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //gizem
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .UseServiceProviderFactory(new AutofacServiceProviderFactory())
