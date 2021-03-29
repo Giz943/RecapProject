@@ -7,7 +7,7 @@
           <Node name="RecapProject" expanded="True">
             <Node name="Entities" expanded="True" />
             <Node name="WebAPI" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
