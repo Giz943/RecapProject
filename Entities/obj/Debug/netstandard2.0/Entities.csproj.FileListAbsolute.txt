@@ -1,0 +1,12 @@
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/bin/Debug/netstandard2.0/Entities.deps.json
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/bin/Debug/netstandard2.0/Entities.dll
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/bin/Debug/netstandard2.0/Entities.pdb
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/bin/Debug/netstandard2.0/Core.dll
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/bin/Debug/netstandard2.0/Core.pdb
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.csprojAssemblyReference.cache
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfoInputs.cache
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfo.cs
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.csproj.CoreCompileInputs.cache
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.csproj.CopyComplete
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.dll
+/Users/gizemcinar/Desktop/Projeler/RecapProject/Entities/obj/Debug/netstandard2.0/Entities.pdb
